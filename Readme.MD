@@ -58,7 +58,7 @@ I used Circle CI to set up a pipeline in the cloud and run the test from there. 
 
 # Checking email was delivered
 
-For this service I used Mailosar [link](https://mailosaur.com/)
+For this service I used Mailosar [websites does not work.
 
 Mailosaur is email testing software that lets you capture and test email, helping you build, test and present your product. It has a 14 days of free trial version.
 The Mailosaur offer different mailing servers and API-s for them. Thanks for this I can check whether the emails are arrived at the mail servers with the predefined mail subject or not.
